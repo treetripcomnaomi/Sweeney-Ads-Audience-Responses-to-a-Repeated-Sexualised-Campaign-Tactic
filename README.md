@@ -27,5 +27,12 @@ Keyword analysis and exploratory topic modelling.
 
 An exploratory examination of later comments connecting the campaigns.
 
+##Key takeaways:
+
+Why Go Beyond Sentiment?
+Negative language does not necessarily indicate opposition to an advertisement. A commenter may use hostile language to attack the advertisement’s critics while defending the campaign. Conversely, sarcasm may express criticism through apparently positive wording.
+
+This project therefore distinguishes sentiment (emotional tone), stance (support or opposition toward the advertising portrayal), and comment target (who or what is being discussed). This approach helps assess whether negative sentiment actually reflects advertising backlash.
+
 
 
